@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Smart-XiaoLeiGe/-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--
+ * @Author: Devin Wang
+ * @Date: 2019-08-20 10:50:58
+ * @LastEditors: Devin Wang
+ * @LastEditTime: 2019-08-20 11:17:36
+ -->
+## Welcome
 
 ### Markdown
 
