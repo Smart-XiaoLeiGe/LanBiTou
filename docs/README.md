@@ -9,5 +9,5 @@
 3. Web
 4. React Native
 5. React
-6. [MiniProgram] (/Frontend/MiniProgram./)
+6. [MiniProgram] (/Frontend/MiniProgram/)
 7. 
