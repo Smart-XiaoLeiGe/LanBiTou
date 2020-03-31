@@ -4,15 +4,6 @@
  * @LastEditors: Devin Wang
  * @LastEditTime: 2020-03-27 20:58:28
  -->
- 
- 
- ---
-layout: page
----
-
-## Table of Contents
-
-
 1. iOS
 2. android
 3. Web
