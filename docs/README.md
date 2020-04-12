@@ -6,9 +6,9 @@
  -->
 >**以梦为马，仗剑江湖**
 
-1. [iOS](Frondend/iOS/index.md)
+1. [iOS](Frontend/iOS/index.md)
 2. android
 3. React Native
-4. [MiniProgram](Frondend/MiniProgram.md)
+4. [MiniProgram](Frontend/MiniProgram.md)
 5. [WebSite](WebSite/TechResearch.md)
 
