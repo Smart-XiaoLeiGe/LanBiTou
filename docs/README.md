@@ -11,5 +11,5 @@
 3. React Native
 4. [MiniProgram](Frontend/MiniProgram.md)
 5. [WebSite](WebSite/TechResearch.md)
-6. [Life](Life/Gov/SheBao/SheBao.md)
+6. [Life](Life/index.md)
 
