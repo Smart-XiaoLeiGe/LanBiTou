@@ -10,4 +10,9 @@
 10. [10](https://news.lianjia.com/sz/baike/017530.html)
 11. [11](https://www.zhihu.com/question/39740068)
 12. [12](https://es6.ruanyifeng.com/#docs/module)
-13. 
+13. [13](https://wenku.baidu.com/view/7bc533617b563c1ec5da50e2524de518964bd3bb.html?fr=search)
+14. [14](https://wenku.baidu.com/view/948419d426fff705cc170aae.html?fr=search)
+15. [15](https://wenku.baidu.com/view/82333251fe4ffe4733687e21af45b307e871f9f6.html?fr=search)
+16. [16](https://wenku.baidu.com/view/6afda55200020740be1e650e52ea551811a6c962.html?fr=search)
+17. [17](https://wenku.baidu.com/view/80d815b47e1cfad6195f312b3169a4517723e522.html?fr=search)
+18. 
